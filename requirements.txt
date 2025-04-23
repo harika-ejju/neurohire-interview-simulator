@@ -1,0 +1,26 @@
+# Core application
+streamlit>=1.22.0
+python-dotenv>=1.0.0
+
+# PDF processing
+pypdf2>=3.0.0
+pdfplumber>=0.9.0
+
+# API interactions
+requests>=2.28.2
+google-generativeai>=0.3.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text processing
+langchain>=0.0.267
+nltk>=3.8.1
+
+# Storage
+streamlit-chat>=0.1.1
+
+# UI enhancements
+streamlit-extras>=0.3.0
+
